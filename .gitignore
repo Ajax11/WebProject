@@ -138,6 +138,12 @@ celerybeat.pid
 # SageMath parsed files
 *.sage.py
 
+# Environments Directory
+webDev/
+
+# Env files on backend directory
+backend/backend/settings.env
+
 # Environments
 .env
 .envrc
